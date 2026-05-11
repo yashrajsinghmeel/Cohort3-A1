@@ -4,7 +4,6 @@
 
 Welcome to my first major design assignment for the  **Sheryians Coding School Cohort 3.0** .
 
-
 # 📸 Sneak Peek
 
 [Live link | Pika pika!](https://yashrajsinghmeel.github.io/Cohort3-A1/)
