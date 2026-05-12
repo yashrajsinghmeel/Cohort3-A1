@@ -8,7 +8,7 @@ Welcome to my first major design assignment for the  **Sheryians Coding School C
 
 [Live link | Pika pika!](https://yashrajsinghmeel.github.io/Cohort3-A1/)
 
-![1778514878925](image/README/1778514878925.png)
+![1778554423624](image/README/1778554423624.png)
 
 # 🌻 A Note for the Reviewer
 
